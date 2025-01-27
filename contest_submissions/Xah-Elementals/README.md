@@ -20,16 +20,18 @@ With their type revealing shortly after via discord in the xah-elemental-reveal 
 Your elementals will automatically be set to "Fighting" status, and will participate in the next battle if there is 2 or more elementals at Level 1.
 
 To Level up you need wins!
-Level 2: 1 Win
-Level 3: 3 Wins
-Level 4: 6 Wins
-Level 5: 10 Wins
+
+- Level 2: 1 Win
+- Level 3: 3 Wins
+- Level 4: 6 Wins
+- Level 5: 10 Wins
 
 Elementals also have damage Modifiers against each other as follows:
-Fire consumes Air (1.5x) but struggles against Water (0.75x). 🌋💨
-Water douses Fire (1.5x) but gets absorbed by Earth (0.75x). 🌊🌍
-Earth crushes Water (1.5x) but crumbles under Air (0.75x). 🪨🌪️
-Air erodes Earth (1.5x) but fuels Fire (0.75x). 🌪️🔥
+
+- Fire consumes Air (1.5x) but struggles against Water (0.75x). 🌋💨
+- Water douses Fire (1.5x) but gets absorbed by Earth (0.75x). 🌊🌍
+- Earth crushes Water (1.5x) but crumbles under Air (0.75x). 🪨🌪️
+- Air erodes Earth (1.5x) but fuels Fire (0.75x). 🌪️🔥
 
 if you wish to Rest your elemental you can do so via [TheShillverse Website (Elementals)](https://theshillverse.com/elementals) - logging in with Xaman.
 
